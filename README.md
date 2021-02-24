@@ -14,3 +14,6 @@ To run this project just run the command below in your shell:
 You can find the running prototype:
 - [Access Running Prototype on AWS S3](https://snake-game.spirandeli.com) 
 - [Access Running Prototype on Github.io](https://lucasspi.github.io/javascript-snake-game/)
+
+
+![alt text](thumb.png)
